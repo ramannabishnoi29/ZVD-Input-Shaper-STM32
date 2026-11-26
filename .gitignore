@@ -1,0 +1,18 @@
+# Build output and binaries
+*.bin
+*.elf
+*.o
+*.a
+*.d
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+env/
+
+# OS artifacts
+.DS_Store
+*.DS_Store
